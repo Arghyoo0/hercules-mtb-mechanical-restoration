@@ -75,7 +75,7 @@ This repository serves as the technical record for the mechanical restoration of
 
 | Item / Component Description | Qty | Source / Procurement | Cost (INR) |
 | :--- | :---: | :--- | :--- |
-| **Base Bicycle (Hercules MTB)** | 1x | 2nd hand marketplace | ₹4,000.00 |
+| **Base Bicycle (Hercules TopGear A29 XR1 29T)** | 1x | 2nd hand marketplace | ₹4,000.00 |
 | CYIDER Mechanical Disc Brake Caliper Set (Front & Rear) | 1 Set | Amazon India | ₹364.00 |
 | 7-inch Cycle Rear Hub Axle with Steel Ball Bearings | 1x | Amazon India | ₹230.00 |
 | LORWADIYA Cycle Gear Shifter Cable (2pc) | 1 Set | Amazon India | ₹151.25 |
