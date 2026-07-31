@@ -11,8 +11,7 @@
 ## 📋 Executive Summary
 This repository serves as the technical record for the mechanical restoration of a Hercules mountain bicycle (21-Speed Shimano Tourney). Initially in a non-functional, degraded state—plagued by a snapped hollow axle, seized wheel bearings, missing disc brake components, and jammed shifter mechanics—the bicycle was systematically diagnosed and rebuilt on a strict budget.
 
-* **Lead Mechanic:** Arghyadip Jana
-* **Location:** Mahishadal, West Bengal
+
 * **Final Status:** 100% Operational & Road-Tested
 * **Total Project Cost:** ₹5,578.80 (Including base bicycle and new tooling)
 
