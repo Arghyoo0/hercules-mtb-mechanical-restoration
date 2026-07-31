@@ -17,7 +17,7 @@ A complete mechanical teardown, diagnosis, component sourcing, and restoration o
 ## 🛠️ System Failure & Resolution Matrix
 
 | Subsystem | Failure Condition | Root Cause | Engineering Fix Applied |
- 
+| :--- | :--- | :--- | :--- |
 | **Wheel & Axle** | Snapped rear axle, seized bearings | Fatigue failure / lack of lubrication | Replaced axle with solid spindle; cleaned & repacked ball bearings; corrected inverted 15mm front flange nuts. |
 | **Braking System** | Zero front brake; rear mounted with 1 bolt | Missing front caliper; missing return spring | Installed BOLIDS mechanical disc caliper set; corrected F180 vs. F160 bracket offset for 160mm rotors; auto-centered pads. |
 | **Front Drivetrain** | Shift cable jammed; frozen limit screw | Frayed inner wire bird's-nest inside shifter pod | Extracted mangled cable; cleared shifter spool; routed fresh inner wire through Tourney TZ washer groove; extracted frozen screw. |
@@ -28,9 +28,9 @@ A complete mechanical teardown, diagnosis, component sourcing, and restoration o
 ## 📊 Bill of Materials & Cost Breakdown
 
 | Item / Service | Source | Cost (INR) |
-
+| :--- | :--- | :--- |
 | BOLIDS Mechanical Disc Brake Caliper Pair (Front + Rear) | Amazon India | ₹359.00 |
-| Universal Inner Gear Shift Cable | Local Cycle Shop | ₹70.00 |
+| Universal Inner Gear Shift Cable | Local Cycle Shop | ₹30.00 |
 | Limit Screw Extraction & Tire Inflation | Local Cycle Shop | ₹30.00 |
 | M6 Bolts, Washers & Cable Crimp End Caps | Hardware Stock | ₹0.00 |
 | **Total** | | **₹419.00** |
