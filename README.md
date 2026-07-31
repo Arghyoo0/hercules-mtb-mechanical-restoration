@@ -1,52 +1,112 @@
-# Hercules MTB Mechanical Restoration & Engineering Overhaul
+# 🛠️ Hercules MTB Mechanical Rebuild & Restoration
 
+![Project Status](https://img.shields.io/badge/Status-100%25%20Operational-brightgreen)
+![Category](https://img.shields.io/badge/Category-Mechanical%20Engineering%20%26%20Maintenance-blue)
+![Total Cost](https://img.shields.io/badge/Total%20Cost-₹5,578.80%20INR-orange)
 
-A complete mechanical teardown, diagnosis, component sourcing, and restoration of a 21-speed Hercules Mountain Bicycle (MTB). This repository documents the step-by-step resolution of critical subsystem failures—spanning snapped axle mechanics, brake rotor offset alignment, derailleur cage geometry, and shifter cable extraction.
+<!-- 📸 UPLOAD HERO IMAGE HERE -->
+![Hercules MTB Final Build](photos/hero_image.jpg)
+*> The fully restored Hercules MTB post-test ride.*
 
----
+## 📋 Executive Summary
+This repository serves as the technical record for the mechanical restoration of a Hercules mountain bicycle (21-Speed Shimano Tourney). Initially in a non-functional, degraded state—plagued by a snapped hollow axle, seized wheel bearings, missing disc brake components, and jammed shifter mechanics—the bicycle was systematically diagnosed and rebuilt on a strict budget.
 
-##  Project Summary
-
-* **Model:** Hercules Top Gear A29 XR1 29 T MTB (21-Speed Shimano Tourney Drivetrain)
-* **Initial Condition:** Non-functional (snapped rear axle, zero stopping power, jammed front shifter, bent derailleur cage).
-* **Final Condition:** 100% road-tested and operational daily commuter.
-* **Total Repair Budget:** ₹1.5k INR
-
----
-
-## 🛠️ System Failure & Resolution Matrix
-
-| Subsystem | Failure Condition | Root Cause | Engineering Fix Applied |
-| :--- | :--- | :--- | :--- |
-| **Wheel & Axle** | Snapped rear axle, seized bearings | Fatigue failure / lack of lubrication | Replaced axle with solid spindle; cleaned & repacked ball bearings; corrected inverted 15mm front flange nuts. |
-| **Braking System** | Zero front brake; rear mounted with 1 bolt | Missing front caliper; missing return spring | Installed BOLIDS mechanical disc caliper set; corrected F180 vs. F160 bracket offset for 160mm rotors; auto-centered pads. |
-| **Front Drivetrain** | Shift cable jammed; frozen limit screw | Frayed inner wire bird's-nest inside shifter pod | Extracted mangled cable; cleared shifter spool; routed fresh inner wire through Tourney TZ washer groove; extracted frozen screw. |
-| **Rear Drivetrain** | Chain dragging & derailing on jockey wheel | Outer derailleur cage plate bent inward | Re-aligned bent metal guard plate to clear chain links; tuned B-tension screw to achieve 5–6mm cog clearance. |
+* **Lead Mechanic:** Arghyadip Jana
+* **Location:** Mahishadal, West Bengal
+* **Final Status:** 100% Operational & Road-Tested
+* **Total Project Cost:** ₹5,578.80 (Including base bicycle and new tooling)
 
 ---
 
-## 📊 Bill of Materials & Cost Breakdown
+## 🛑 Initial Diagnostics & System Failure Matrix
 
-| Item / Service | Source | Cost (INR) |
-| :--- | :--- | :--- |
-| BOLIDS Mechanical Disc Brake Caliper Pair (Front + Rear) | Amazon India | ₹359.00 |
-| Universal Inner Gear Shift Cable | Local Cycle Shop | ₹30.00 |
-| Limit Screw Extraction & Tire Inflation | Local Cycle Shop | ₹30.00 |
-| M6 Bolts, Washers & Cable Crimp End Caps | Hardware Stock | ₹0.00 |
-| **Total** | | **₹419.00** |
+| Subsystem | Identified Failure / Fault Condition | Severity | Initial Status |
+| :--- | :--- | :---: | :--- |
+| **Wheel Axles & Hubs** | Snapped hollow rear axle shaft, seized ball bearings, freewheel body dragging against hub housing, flipped axle nut orientation. | 🔴 Critical | Inoperable |
+| **Brake System** | Front caliper completely missing; rear caliper mounted with only 1 bolt; missing caliper return spring; incorrect bracket offset. | 🔴 Critical | No Stopping Power |
+| **Front Drivetrain** | Stripped/frozen limit screw on front derailleur; inner shift cable frayed into a bird's-nest knot jammed inside left shifter pod. | 🟠 High | Frozen Cable |
+| **Rear Drivetrain** | Bent outer cage plate on rear derailleur pressing against lower pulley wheel; chain derailing off top jockey wheel; unadjusted B-tension. | 🟠 High | Chain Jamming |
+| **Chassis & Tires** | Depressurized rear inner tube; missing side stand bolt hardware; un-crimped cable ends causing wire unraveling. | 🟡 Moderate | Flat Tire |
+
+<!-- 📸 UPLOAD BEFORE IMAGES HERE -->
+<p align="center">
+  <img src="photos/snapped_axle.jpg" width="45%" alt="Snapped Axle">
+  <img src="photos/frayed_cable.jpg" width="45%" alt="Frayed Cable">
+</p>
+*> Initial condition: Broken rear axle and jammed front gear cable.*
 
 ---
 
-## 📑 Technical Documentation
+## 🔧 Chronological Restoration Phases
 
-Full technical documentation and diagnostic reports are available in this repository:
-* 📄 [Download Complete HTML Maintenance Report](./Hercules_MTB_Rebuild_Documentation.html)
-* 📕 [Download PDF Engineering Report](./Hercules_MTB_Rebuild_Documentation.pdf)
+### Phase 1: Axle Reconstruction & Front Wheel Mounting
+* **Rear Axle Overhaul:** Replaced the snapped hollow rear axle with a solid 7-inch axle replacement, cleaned and repacked hub bearings, and re-aligned the freewheel spacing to eliminate drag.
+* **Flange Nut Correction:** Corrected the inverted installation of the 15mm front axle nuts, ensuring the flat flange face pressed flush against the dropout for even clamping force.
+
+### Phase 2: Rear Derailleur & Cage De-Jamming
+* **Cage Realignment:** Identified the outer metal cage plate was bent inward, physically pinching the chain and locking the lower tension pulley wheel.
+* **Clearance Optimization:** Bent the guard plate outward to restore full clearance, allowing the chain to glide smoothly over the plastic pulley teeth.
+
+<!-- 📸 UPLOAD DERAILLEUR IMAGE HERE -->
+![Derailleur Fix](photos/derailleur_fix.jpg)
+*> Aligning the rear derailleur cage and jockey wheels.*
+
+### Phase 3: Front Shifter Extraction & Cable Overhaul
+* **Cable Extraction:** Cut the severely knotted, frayed inner wire using high-leverage shears at a local workshop.
+* **Shifter Pod Clearing:** Pushed the inner lead anchor head inward to dislodge it from the internal spool, clearing the housing.
+* **Fresh Routing:** Routed a new LORWADIYA inner shift cable through the handlebar pod and clamped it directly inside the stamped channel under the Shimano Tourney TZ anchor nut.
+
+### Phase 4: Brake System Installation & Caliper Optimization
+* **Hardware Sourcing:** Procured a universal **CYIDER Mechanical Disc Brake Caliper Set** equipped with return springs and brackets.
+* **Adapter Offset Resolution:** Swapped the included `F180/R160` front adapter bracket for the original `F160` bracket to correctly lower the caliper onto the 160mm rotor braking track.
+* **Auto-Centering:** Adjusted the inner stationary pad with a 5mm Allen key, used the lever-squeeze trick to self-center the caliper body, and secured both units with dual M6 bolts.
+
+<!-- 📸 UPLOAD BRAKE IMAGE HERE -->
+![Brake Caliper Installation](photos/brake_caliper.jpg)
+*> The new CYIDER mechanical caliper dialed in on the 160mm rotor.*
+
+### Phase 5: Final Tuning & Cycle Shop Integration
+* **Screw Extraction:** Professionally extracted the stubborn front derailleur limit screw.
+* **Cleaning & Lubrication:** Degreased the drivetrain using LUBRIZAP Chain Cleaner and applied WD-40 to pivot points for smooth actuation.
+* **Jockey Wheel & B-Tension Tuning:** Adjusted the B-tension screw on the rear derailleur to maintain a 5–6mm gap between the top jockey wheel and cassette cogs.
 
 ---
 
-## 🧪 Road Test Verification
+## 💰 Bill of Materials (BOM) & Financial Summary
 
-Road testing was verified via telemetry logging:
-* **Test Outcome:** Smooth indexing across all 21 gear combinations without chain drop.
-* **Braking Performance:** Instantaneous dual-disc engagement with zero rotor rub or frame chatter.
+| Item / Component Description | Qty | Source / Procurement | Cost (INR) |
+| :--- | :---: | :--- | :--- |
+| **Base Bicycle (Hercules MTB)** | 1x | As-is / Pre-owned | ₹4,000.00 |
+| CYIDER Mechanical Disc Brake Caliper Set (Front & Rear) | 1 Set | Amazon India | ₹364.00 |
+| 7-inch Cycle Rear Hub Axle with Steel Ball Bearings | 1x | Amazon India | ₹230.00 |
+| LORWADIYA Cycle Gear Shifter Cable (2pc) | 1 Set | Amazon India | ₹151.25 |
+| WD-40 Spray & LUBRIZAP Chain Cleaner Spray | 1 Set | Amazon India | ₹512.55 |
+| SPARTAN 6-Pcs Ring Spanner Set (Tooling) | 1 Set | Amazon India | ₹291.00 |
+| Front Derailleur Screw Removal & Tire Inflation | 1x | Local Cycle Shop | ₹30.00 |
+| **Total Project Investment** | | | **₹5,578.80** |
+
+---
+
+## ✅ Post-Restoration Quality Verification
+
+A comprehensive multi-point inspection was executed to verify mechanical safety:
+
+### Drivetrain & Frame
+- [x] Front axle 15mm nuts torqued with flange facing inward.
+- [x] Rear axle centered with zero freewheel drag.
+- [x] Front derailleur shifts smoothly across all 3 chainrings.
+- [x] Rear derailleur indexes crisply across all 7 cogs.
+- [x] Drivetrain degreased, lubricated, and B-tension adjusted.
+
+### Brakes & Ergonomics
+- [x] Front caliper aligned on F160 bracket; 100% pad bite.
+- [x] Rear caliper secured with 2x M6 bolts; wheel locks tight.
+- [x] Inner brake pads dialed to 1mm rotor clearance.
+- [x] Shift cables replaced and tensioned.
+- [x] Tires inflated; side stand secured.
+
+<!-- 📸 UPLOAD STRAVA SCREENSHOT HERE -->
+![Strava Road Test](photos/strava_test.jpg)
+*> Verification: Successful 0.16 km local para road test with flawless gear shifting and braking.*
+
+---
