@@ -1,19 +1,20 @@
 # 🛠️ Hercules MTB Mechanical Rebuild & Restoration
 
-![Project Status](https://img.shields.io/badge/Status-100%25%20Operational-brightgreen)
+![Project Status](https://img.shields.io/badge/Status-Project%20Completed%20%26%20Road--Tested-brightgreen)
 ![Category](https://img.shields.io/badge/Category-Mechanical%20Engineering%20%26%20Maintenance-blue)
 ![Total Cost](https://img.shields.io/badge/Total%20Cost-₹5,578.80%20INR-orange)
+![Top Speed Verified](https://img.shields.io/badge/Max%20Speed-42.6%20km%2Fh-red)
 
 <!-- 📸 UPLOAD HERO IMAGE HERE -->
 ![Hercules MTB Final Build](photos/hero_image.jpg)
 *> The fully restored Hercules MTB post-test ride.*
 
 ## 📋 Executive Summary
-This repository serves as the technical record for the mechanical restoration of a Hercules mountain bicycle (21-Speed Shimano Tourney). Initially in a non-functional, degraded state—plagued by a snapped hollow axle, seized wheel bearings, missing disc brake components, and jammed shifter mechanics—the bicycle was systematically diagnosed and rebuilt on a strict budget.
+This repository serves as the technical record for the mechanical restoration and overhaul of a Hercules mountain bicycle (Hercules TopGear A29 XR1 29T, 21-Speed Shimano Tourney). Initially acquired second-hand in a non-functional, degraded condition—plagued by a snapped hollow axle, seized wheel bearings, missing disc brake components, and jammed shifter mechanics—the bicycle was systematically diagnosed, refurbished, and upgraded on a strict budget.
 
-
-* **Final Status:** 100% Operational & Road-Tested
-* **Total Project Cost:** ₹5,578.80 (Including base bicycle and new tooling)
+* **Final Status:** Completed, Fully Operational & Verified via Field Stress Testing
+* **Total Project Cost:** ₹5,578.80 INR (Including base bicycle and new tooling)
+* **Final Validation:** Passed high-speed road reliability test (Max Speed: 42.6 km/h)
 
 ---
 
@@ -43,7 +44,7 @@ This repository serves as the technical record for the mechanical restoration of
 * **Flange Nut Correction:** Corrected the inverted installation of the 15mm front axle nuts, ensuring the flat flange face pressed flush against the dropout for even clamping force.
 
 ### Phase 2: Rear Derailleur & Cage De-Jamming
-* **Cage Realignment:** Identified the outer metal cage plate was bent inward, physically pinching the chain and locking the lower tension pulley wheel.
+* **Cage Realignment:** Identified that the outer metal cage plate was bent inward, physically pinching the chain and locking the lower tension pulley wheel.
 * **Clearance Optimization:** Bent the guard plate outward to restore full clearance, allowing the chain to glide smoothly over the plastic pulley teeth.
 
 <!-- 📸 UPLOAD DERAILLEUR IMAGE HERE -->
@@ -86,26 +87,46 @@ This repository serves as the technical record for the mechanical restoration of
 
 ---
 
-## ✅ Post-Restoration Quality Verification
+## 🏁 Field Testing & Reliability Verification
 
-A comprehensive multi-point inspection was executed to verify mechanical safety:
+Field validation was conducted in two distinct test phases: an initial mechanical shakedown followed by a high-speed road reliability run logged via Strava.
 
-### Drivetrain & Frame
-- [x] Front axle 15mm nuts torqued with flange facing inward.
-- [x] Rear axle centered with zero freewheel drag.
-- [x] Front derailleur shifts smoothly across all 3 chainrings.
-- [x] Rear derailleur indexes crisply across all 7 cogs.
-- [x] Drivetrain degreased, lubricated, and B-tension adjusted.
+### Test Run 1: Initial Neighborhood Shakedown
+* **Objective:** Verify low-speed gear engagement, baseline brake bite, and ensure the new solid axle remained seated without play.
+* **Route:** 0.16 km local para circuit.
+* **Outcome:** Passed. Confirmed zero wheel wobble and smooth gear chain transfers.
 
-### Brakes & Ergonomics
-- [x] Front caliper aligned on F160 bracket; 100% pad bite.
-- [x] Rear caliper secured with 2x M6 bolts; wheel locks tight.
-- [x] Inner brake pads dialed to 1mm rotor clearance.
-- [x] Shift cables replaced and tensioned.
-- [x] Tires inflated; side stand secured.
+### Test Run 2: High-Speed Road Reliability Test
+* **Objective:** Stress-test the drivetrain under sustained cadence and test mechanical disc brake stopping power at high speeds.
+* **Test Metrics:**
+  * **Date & Location:** September 12, 2026 · Mahisadal, West Bengal
+  * **Distance Covered:** 3.84 km
+  * **Moving Time:** 11:22 *(Elapsed: 15:05)*
+  * **Average Speed:** 20.3 km/h
+  * **Maximum Speed:** 42.6 km/h
+  * **Elevation Gain:** 6 m
+  * **Estimated Avg Power / Energy:** 112 W (77 kJ)
+  * **Test Rig:** Hercules TopGear A29 XR1 (`xr1`)
 
-<!-- 📸 UPLOAD STRAVA SCREENSHOT HERE -->
-![Strava Road Test](photos/strava_test.jpg)
-*> Verification: Successful 0.16 km local para road test with flawless gear shifting and braking.*
+<!-- 📸 UPLOAD STRAVA RELIABILITY SCREENSHOT HERE -->
+![Strava Reliability Test 2](photos/reliability_test_2.png)
+*> Strava Telemetry: Peak speed of 42.6 km/h achieved with zero chain drop or frame wobble.*
+
+### Mechanical Observations & Results:
+1. **Drivetrain Under Load:** No phantom gear slipping or chain bounce across the 3x7 cassette during sprint bursts.
+2. **Braking Performance:** CYIDER mechanical calipers delivered predictable modulation and full emergency lockup capability decelerating from >40 km/h.
+3. **Hub & Axle Integrity:** Solid 7-inch axle showed zero deflection or loosening under high-torque pedaling.
 
 ---
+
+## ✅ Final Quality Sign-Off & Project Status
+
+- [x] Solid rear axle torqued, centered, and repacked with grease.
+- [x] Front 15mm flange nuts properly oriented flush to dropouts.
+- [x] Front & rear mechanical disc calipers centered with dual M6 bolts.
+- [x] Shifter cables replaced, tensioned, and crimped.
+- [x] 3x7 Shimano Tourney derailleurs indexed with adjusted B-tension.
+- [x] Local shakedown run (0.16 km) passed.
+- [x] Road reliability stress test (3.84 km @ 42.6 km/h max) passed.
+
+**Project Status:** 🏆 **Fully Restored, Verified, and Complete.**
