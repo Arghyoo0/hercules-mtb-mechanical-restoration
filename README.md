@@ -99,7 +99,7 @@ Field validation was conducted in two distinct test phases: an initial mechanica
 ### Test Run 2: High-Speed Road Reliability Test
 * **Objective:** Stress-test the drivetrain under sustained cadence and test mechanical disc brake stopping power at high speeds.
 * **Test Metrics:**
-  * **Date & Location:** September 12, 2026 · Mahisadal, West Bengal
+  * **Date & Location:** September 12, 2026 · West Bengal
   * **Distance Covered:** 3.84 km
   * **Moving Time:** 11:22 *(Elapsed: 15:05)*
   * **Average Speed:** 20.3 km/h
